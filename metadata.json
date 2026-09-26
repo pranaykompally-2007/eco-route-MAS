@@ -1,0 +1,8 @@
+{
+  "name": "Remix Autonomous Garbage Collection",
+  "description": "Autonomous multi-agent waste logistics system where smart bins negotiate with autonomous truck agents to build fuel-efficient daily collection routes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
